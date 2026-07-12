@@ -1,1 +1,1 @@
-# Minimal_Portfolio-website
+# Minimal_Portfolio-website (minimal version based on the resume)
